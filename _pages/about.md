@@ -24,7 +24,8 @@ redirect_from:
 
 ## 二，性格特点
 飞霄克己勤勉，精力充沛，遇事亲历亲为，做事不拘一格，雷厉风行。
-
+(https://s21.ax1x.com/2025/01/03/pEpiACn.jpg)
+(https://s21.ax1x.com/2025/01/03/pEpiDPA.jpg)
 
 
 ## 三，角色能力
