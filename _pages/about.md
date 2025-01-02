@@ -11,6 +11,7 @@ redirect_from:
 这是一个于2025.01.02创建的个人网站，灵感来源于《星穷铁道》中的飞霄，主
 要是用于分享一些 游戏资源，AI工具，服务器运行等等，内容来源于站长搜索以
 及借鉴，来源会特定标注。
+
 **This is a personal website created on January 2, 2025, inspired by Fei Xiao from "Star Poor Railway", If used to share some game resources, AI tools, server operations, etc., the content comes from webmaster searches. And for reference, the source will be specifically labeled.**
 
 ## 【关于飞霄的介绍】
