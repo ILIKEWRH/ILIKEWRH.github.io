@@ -12,7 +12,7 @@ title                    : "霄门"
 title_separator          : "-"
 name                     : &name "ILIKEWRH"
 description              : &description "一个飞霄厨子"
-url                      : https://ilikewrh.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://ilikewrh.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/ILIKEWRH/ILIKEWRH.github.io"
 
