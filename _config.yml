@@ -12,7 +12,7 @@ title                    : "霄门"
 title_separator          : "-"
 name                     : &name "YMJ-249"
 description              : &description "一个飞霄厨子"
-url                      : https://feixiao.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://ilikewrh.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/ILIKEWRH/ILIKEWRH.github.io"
 
@@ -22,7 +22,7 @@ repository               : "https://github.com/ILIKEWRH/ILIKEWRH.github.io"
 author:
   # Biographic information
   avatar           : "https://s21.ax1x.com/2025/01/03/pEpinDU.png"
-  name             : "ILIKEWRH"
+  name             : "YMJ-249"
   pronouns         : "he"  
   bio              : "一个飞霄厨子，兼学习党"
   location         : "地球(Earth)"
