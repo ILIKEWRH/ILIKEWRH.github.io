@@ -1,5 +1,5 @@
 ---
-title: "我的世界创建服务器教学"
+title: "我的世界创建服务器教学（How to create a server in Minecraft）"
 collection: teaching
 type: "Server Teaching（服务器教学）"
 permalink: /teaching/2015-spring-teaching-1
