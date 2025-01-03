@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "关于CS1.6的下载与汉化教学"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
