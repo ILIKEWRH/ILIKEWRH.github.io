@@ -1,7 +1,7 @@
 ---
 title: "关于CS1.6的下载与汉化教学"
 collection: teaching
-type: "Undergraduate course"
+type: "Game teaching"
 permalink: /teaching/2025-spring-teaching-1
 venue: "University 1, Department"
 date: 2025-01-03
